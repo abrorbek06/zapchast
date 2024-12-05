@@ -1,0 +1,111 @@
+{
+  "languages": {
+    "ru": "🇷🇺 Русский",
+    "uz": "🇺🇿 O'zbek"
+  },
+  "buttons": {
+    "spare_parts": {
+      "ru": "🔧 Запчасти",
+      "uz": "🔧 Ehtiyot qismlar"
+    },
+    "settings": {
+      "ru": "⚙️ Настройки",
+      "uz": "⚙️ Sozlamalar"
+    },
+    "communication": {
+      "ru": "💬 Общение",
+      "uz": "💬 Aloqa"
+    },
+    "change_language": {
+      "ru": "🌐 Изменить язык",
+      "uz": "🌐 Tilni o'zgartirish"
+    },
+    "account": {
+      "ru": "👤 Управление аккаунтом",
+      "uz": "👤 Hisobni boshqarish"
+    },
+    "back": {
+      "ru": "🔙 Назад",
+      "uz": "🔙 Ortga"
+    },
+    "back_product": {
+      "ru": "Назад \uD83D\uDD19",
+      "uz": "Ortga \uD83D\uDD19"
+    },
+    "share_contact": {
+      "ru": "📱 Поделитесь вашим контактом",
+      "uz": "📱 Kontaktingizni ulashing"
+    },
+    "correct": {
+      "ru": "✅ Верно",
+      "uz": "✅ To'g'ri"
+    },
+    "incorrect": {
+      "ru": "🚫 Неверно",
+      "uz": "🚫 Xato"
+    },
+    "registration": {
+      "ru": "📝 Регистрация",
+      "uz": "📝 Ro'yxatdan o'tish"
+    },
+    "confirm": {
+      "ru": "✅ Подтвердить",
+      "uz": "✅ Tasdiqlash"
+    }
+  },
+  "messages": {
+    "welcome_message": {
+      "ru": "Добро пожаловать! Здесь вы можете найти и заказать запчасти для автомобилей BYD. Нажмите кнопку 'Запчасти', чтобы начать.",
+      "uz": "Xush kelibsiz! Bu yerda siz BYD avtomobillari uchun ehtiyot qismlarni topib, buyurtma qilishingiz mumkin. Boshlash uchun 'Ehtiyot qismlar' tugmasini bosing."
+    },
+    "settings_section": {
+      "ru": "⚙ Раздел настроек",
+      "uz": "⚙ Sozlamalar bo'limi"
+    },
+    "select_language": {
+      "ru": "Выберите нужный язык:",
+      "uz": "Kerakli tilni tanlang:"
+    },
+    "enter_name": {
+      "ru": "✍️ Введите ваше имя:",
+      "uz": "✍️ Ismingizni kiriting:"
+    },
+    "enter_phone": {
+      "ru": "📞 Введите номер вашего телефона <b>+998XXXXXXXXX</b> или поделитесь им!",
+      "uz": "📞 Telefon raqamingizni kiriting <b>+998XXXXXXXXX</b> yoki ulashing!"
+    },
+    "verify_info": {
+      "ru": "📋 *Проверьте информацию:*\n\n*Имя:* {0}\n*Телефон:* {1}",
+      "uz": "📋 *Ma'lumotni tekshiring:*\n\n*Ism:* {0}\n*Telefon:* {1}"
+    },
+    "incorrect_phone": {
+      "ru": "📞 Номер телефона введён неверно. Пожалуйста, введите его снова или поделитесь им!",
+      "uz": "📞 Telefon raqami noto'g'ri kiritildi. Iltimos, qaytadan tering yoki ulashing!"
+    },
+    "data_updated": {
+      "ru": "✅ Данные обновлены!",
+      "uz": "✅ Ma'lumotlar yangilandi!"
+    },
+    "data_saved": {
+      "ru": "✅ Данные сохранены!",
+      "uz": "✅ Ma'lumotlar saqlandi!"
+    },
+    "not_registered": {
+      "ru": "🚫 Вы еще не зарегистрированы. Пожалуйста, зарегистрируйтесь.",
+      "uz": "🚫 Siz hali ro'yxatdan o'tmagansiz. Iltimos, ro'yxatdan o'ting."
+    },
+    "join_channels": {
+      "ru": "Для продолжения, пожалуйста, присоединитесь к этим каналам и группам. 📱",
+      "uz": "Davom etish uchun ushbu kanallar va guruhlarga a'zo bo'ling. 📱"
+    },
+    "communication_info": {
+      "ru": "Свяжитесь с нами: \n\n📞 +7 123 456 7890,\n📧 info@bydparts.ru",
+      "uz": "Biz bilan bog'laning: \n\n📞 +998 90 123 45 67, \n📧 info@bydparts.uz"
+    },
+    "user_info": {
+      "ru": "📋 Ваши данные\n\n👤 Имя: {name}\n📞 Номер: {contact}",
+      "uz": "📋 Ma'lumotlaringiz\n\n👤 Ism: {name}\n📞 Nomer: {contact}"
+    }
+  }
+}
+
